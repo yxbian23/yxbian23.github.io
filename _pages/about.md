@@ -17,6 +17,9 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+Hi, I'm Yuxuan Bian (卞宇轩). I am currently a last-year undergraduate student majoring in Computer Science in the School of Electronic and Information Engineering, [Tongji University](https://www.tongji.edu.cn/). And I am going to be a Ph.D. student in the [CURE Lab](http://reddit.com) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html) guided by Prof. [Qiang Xu](https://scholar.google.com.hk/citations?hl=zh-CN&user=eSiKPqUAAAAJ).
+
+I have a broad interest in most areas of generative modeling, especially in time series analysis and human motion generation. Please do not hesitate to reach out to me via email at yuxuanbian23@gmail.com!
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
