@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /cv/
+permalink: /assets/pdf/BIAN_YUXUAN.pdf
 title: CV
 nav: true
 nav_order: 5
