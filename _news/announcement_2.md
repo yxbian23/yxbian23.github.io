@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<font color=#c1121f>[Paper]</font>  Our research [aLLM4TS](https://yxbian23.github.io/) has been accepted by **ICML 2024**! :sparkles: :smile:
+**[Paper]** Our research [aLLM4TS](https://yxbian23.github.io/) has been accepted by **ICML 2024**! :sparkles: :smile:
