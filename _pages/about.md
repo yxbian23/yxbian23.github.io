@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: A child wondering in the life-long journey.
+subtitle: PhD Student @ The Chinese University of Hong Kong
 
 profile:
   align: right

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[NGDRL](https://yxbian23.github.io/) is accepted to DASFFA! :sparkles: :smile:
+<font color= #c1121f>[Paper]</font> Our research [NGDRL](https://yxbian23.github.io/) has been accepted by **DASFFA 2024**! :sparkles: :smile:
