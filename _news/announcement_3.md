@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**[Paper]** I was selected as the **Outstanding Graduate of Shanghai Province!** :star2:
+**[Award]** I was selected as the **Outstanding Graduate of Shanghai Province!** :star2:
